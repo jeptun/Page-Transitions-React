@@ -22,7 +22,7 @@
 ## O projektu
 [![Product Name Screen Shot][product-screenshot]](https://framermotion-react.netlify.app/)
 
-Zkouška Three.js podle tutorialu  [React Router & Framer Motion](https://www.youtube.com/watch?v=3QrkCmsfewM&ab_channel=WrongAkram),
+Zkouška  podle tutorialu  [React Router & Framer Motion](https://www.youtube.com/watch?v=3QrkCmsfewM&ab_channel=WrongAkram),
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
